@@ -4,8 +4,7 @@ The Front-End Engineer quiz is broken down into four sections:
 
 1. Questions
 2. Algorithms
-3. Design
-4. Application
+3. Application
 
 ## Directions
 
