@@ -1,6 +1,6 @@
 # RealMassive Front-End Engineer Quiz
 
-The Front-End Engineer quiz is broken down into four sections:
+The Front-End Engineer quiz is broken down into three sections:
 
 1. Questions
 2. Algorithms
